@@ -1,0 +1,31 @@
+title: Desatascos Castellon
+email: your-email@domain.com
+description: Cerrajeros Benicassim está para ayudarte y prestarte los mejores servicios. Somos especialistas en la apertura de puertas, normales o de seguridad, de viviendas o negocios.
+
+baseurl: "/"
+url: http://keralahost.in/karlalopes
+google_adsense: Your-adsense-code
+
+markdown: kramdown
+
+name: Desatascos Castellon
+
+date: 2019-04-12 05:53:33 +0000
+permalink: /:year/:month/:day/:title
+
+logo: false
+sass:
+    load_paths:
+        - _sass
+        - bs
+paginate: 10
+adsid: ca-pub-8582082279264878
+domain_name: http://keralahost.in/karlalopes/
+google_analytics: UA-31XXXXXX-X
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+cover: 
+author_image: 
+
+author: karlalopes
